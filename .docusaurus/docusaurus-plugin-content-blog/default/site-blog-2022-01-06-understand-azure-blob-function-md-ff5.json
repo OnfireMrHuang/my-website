@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/azure-blob-function-retriggering",
+  "source": "@site/blog/2022-01-06-understand-azure-blob-function.md",
+  "title": "Azure Blob Functions's Re-triggering Issue",
+  "description": "azure-functions",
+  "date": "2022-01-06T00:00:00.000Z",
+  "formattedDate": "January 6, 2022",
+  "tags": [
+    {
+      "label": "Azure App Service",
+      "permalink": "/blog/tags/azure-app-service"
+    },
+    {
+      "label": "Blob Function",
+      "permalink": "/blog/tags/blob-function"
+    },
+    {
+      "label": "Azure Functions",
+      "permalink": "/blog/tags/azure-functions"
+    },
+    {
+      "label": "Paas",
+      "permalink": "/blog/tags/paas"
+    }
+  ],
+  "readingTime": 3.14,
+  "truncated": true,
+  "nextItem": {
+    "title": "Understanding This, Bind, Call and Apply in JavaScript",
+    "permalink": "/blog/understand-this-in-one-article"
+  }
+}

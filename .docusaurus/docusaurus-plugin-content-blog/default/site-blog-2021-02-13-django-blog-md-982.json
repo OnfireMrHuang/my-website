@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/djang0-blog",
+  "source": "@site/blog/2021-02-13-Django-blog.md",
+  "title": "Django project - A Twitter Like Web APP",
+  "description": "A twitter like web app built with Django.",
+  "date": "2021-02-13T00:00:00.000Z",
+  "formattedDate": "February 13, 2021",
+  "tags": [
+    {
+      "label": "django",
+      "permalink": "/blog/tags/django"
+    },
+    {
+      "label": "heroku",
+      "permalink": "/blog/tags/heroku"
+    },
+    {
+      "label": "backend",
+      "permalink": "/blog/tags/backend"
+    }
+  ],
+  "readingTime": 0.22,
+  "truncated": true,
+  "prevItem": {
+    "title": "Shallow Copy vs. Deep Copy",
+    "permalink": "/blog/understand-copy-in-js"
+  },
+  "nextItem": {
+    "title": "What is Web Accessibility?",
+    "permalink": "/blog/web-accessibility"
+  }
+}

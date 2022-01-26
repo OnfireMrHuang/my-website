@@ -1,0 +1,28 @@
+{
+  "permalink": "/blog/web-accessibility",
+  "source": "@site/blog/2021-01-18-Web-Accessibility.md",
+  "title": "What is Web Accessibility?",
+  "description": "In this blog, we are going to learn web accessibility.",
+  "date": "2021-01-18T00:00:00.000Z",
+  "formattedDate": "January 18, 2021",
+  "tags": [
+    {
+      "label": "Web Accessibility",
+      "permalink": "/blog/tags/web-accessibility"
+    },
+    {
+      "label": "Web development",
+      "permalink": "/blog/tags/web-development"
+    }
+  ],
+  "readingTime": 2.64,
+  "truncated": true,
+  "prevItem": {
+    "title": "Django project - A Twitter Like Web APP",
+    "permalink": "/blog/djang0-blog"
+  },
+  "nextItem": {
+    "title": "Cozy Space - A React Furniture Store",
+    "permalink": "/blog/React Furniture Store"
+  }
+}

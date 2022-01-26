@@ -1,0 +1,24 @@
+{
+  "permalink": "/blog/first_blog",
+  "source": "@site/blog/2020-11-27-hi.md",
+  "title": "My First Post",
+  "description": "Welcome to my personal blog! This website is build with docusaurus.",
+  "date": "2020-11-27T00:00:00.000Z",
+  "formattedDate": "November 27, 2020",
+  "tags": [
+    {
+      "label": "react",
+      "permalink": "/blog/tags/react"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 0.055,
+  "truncated": false,
+  "prevItem": {
+    "title": "A Simple Recipe React App",
+    "permalink": "/blog/A_Simple_Recipe_React_App"
+  }
+}

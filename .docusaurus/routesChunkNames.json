@@ -1,0 +1,118 @@
+{
+  "/-deb": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---5-e-9-4f3"
+  },
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/blog-7e5": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogf-57-113"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/领域驱动模型设计-1db": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-understand-this-in-one-article-506-19b"
+  },
+  "/blog/tags-e13": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/golang-827": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogf-57-113"
+      }
+    ],
+    "metadata": "metadata---blog-tags-golang-00-b-a67"
+  },
+  "/blog/tags/java-6b9": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogf-57-113"
+      }
+    ],
+    "metadata": "metadata---blog-tags-javaa-4-a-9bc"
+  },
+  "/blog/tags/kubernetes-6e5": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogf-57-113"
+      }
+    ],
+    "metadata": "metadata---blog-tags-kubernetesb-0-f-750"
+  },
+  "/blog/tags/rust-32d": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogf-57-113"
+      }
+    ],
+    "metadata": "metadata---blog-tags-rust-2-d-9-2cb"
+  },
+  "/blog/tags/spark-cf1": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogf-57-113"
+      }
+    ],
+    "metadata": "metadata---blog-tags-spark-720-9a4"
+  },
+  "/docs-3e9": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/-6b2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-b-2-f-393"
+  },
+  "/docs/doc2-fc7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-doc-2-df-3-eaa"
+  },
+  "/docs/doc3-b20": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-doc-3616-40c"
+  },
+  "/docs/mdx-106": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-mdxce-3-7d1"
+  }
+}
