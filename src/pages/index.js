@@ -58,10 +58,7 @@ function Home() {
           <animated.div style={animatedTexts[1]}>
             <Typography variant="body1">
               <Translate>
-                A Melbourne University graduate who has a great passion for web
-                development. While keeping updated with the most recent
-                technologies, I always seek to improve and grow as a
-                professional full-stack web developer as well as a person.
+              I am an engineer engaged in Internet back-end development and have great passion for big data and cloud-native technologies I am always looking to improve and grow as a software architecture engineer while keeping pace with the latest technologies.
               </Translate>{" "}
             </Typography>
           </animated.div>
@@ -71,7 +68,7 @@ function Home() {
               <Translate>My Skills:</Translate>
             </Typography>
             <Typography variant="body1" gutterBottom>
-              React.js、React Native、Node.js、Material UI、JavaScript、HTML5
+              Golang、Rust、kubernetes、spark、python
               etc.
             </Typography>
           </animated.div>

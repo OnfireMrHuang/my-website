@@ -1,8 +1,8 @@
 export default {
   "title": "Jessie",
   "tagline": "Learning is a Lifelong Process",
-  "url": "https://jeesie.work/",
-  "baseUrl": "/",
+  "url": "https://jeesie.work",
+  "baseUrl": "/zh-cn/",
   "favicon": "img/favicon.ico",
   "projectName": "Jessie-Blog",
   "stylesheets": [
@@ -13,7 +13,7 @@ export default {
       "title": "Jessie",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/haochen.logo.svg"
+        "src": "img/jessie.logo.svg"
       },
       "items": [
         {
@@ -24,7 +24,7 @@ export default {
         },
         {
           "to": "blog",
-          "label": "Blog",
+          "label": "博客",
           "position": "right"
         },
         {
@@ -39,7 +39,7 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "社交媒体",
+          "title": "social media",
           "items": [
             {
               "label": "Linkedin",
@@ -52,10 +52,10 @@ export default {
           ]
         },
         {
-          "title": "更多",
+          "title": "more",
           "items": [
             {
-              "label": "Blog",
+              "label": "博客",
               "to": "blog"
             },
             {
@@ -65,7 +65,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2022 Jessie. Built with Docusaurus."
+      "copyright": "Copyright © 2021 Haochen Built with Docusaurus."
     },
     "colorMode": {
       "defaultMode": "light",

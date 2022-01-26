@@ -7,7 +7,7 @@
   "source": "@site/docs/doc1.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/docs/",
+  "permalink": "/zh-cn/docs/",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc1.md",
   "version": "current",
   "frontMatter": {
@@ -19,6 +19,6 @@
   "sidebar": "someSidebar",
   "next": {
     "title": "Document Number 2",
-    "permalink": "/docs/doc2"
+    "permalink": "/zh-cn/docs/doc2"
   }
 }

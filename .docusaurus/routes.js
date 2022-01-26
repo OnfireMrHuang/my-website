@@ -4,110 +4,95 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/',
-    component: ComponentCreator('/','deb'),
+    path: '/zh-cn/',
+    component: ComponentCreator('/zh-cn/','5d9'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug','3d6'),
+    path: '/zh-cn/__docusaurus/debug',
+    component: ComponentCreator('/zh-cn/__docusaurus/debug','f4b'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config','914'),
+    path: '/zh-cn/__docusaurus/debug/config',
+    component: ComponentCreator('/zh-cn/__docusaurus/debug/config','881'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content','c28'),
+    path: '/zh-cn/__docusaurus/debug/content',
+    component: ComponentCreator('/zh-cn/__docusaurus/debug/content','95d'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
+    path: '/zh-cn/__docusaurus/debug/globalData',
+    component: ComponentCreator('/zh-cn/__docusaurus/debug/globalData','f8a'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
+    path: '/zh-cn/__docusaurus/debug/metadata',
+    component: ComponentCreator('/zh-cn/__docusaurus/debug/metadata','3f1'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry','0da'),
+    path: '/zh-cn/__docusaurus/debug/registry',
+    component: ComponentCreator('/zh-cn/__docusaurus/debug/registry','664'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes','244'),
+    path: '/zh-cn/__docusaurus/debug/routes',
+    component: ComponentCreator('/zh-cn/__docusaurus/debug/routes','af2'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog','7e5'),
+    path: '/zh-cn/blog',
+    component: ComponentCreator('/zh-cn/blog','db3'),
     exact: true
   },
   {
-    path: '/blog/领域驱动模型设计',
-    component: ComponentCreator('/blog/领域驱动模型设计','1db'),
+    path: '/zh-cn/blog/tags',
+    component: ComponentCreator('/zh-cn/blog/tags','8c6'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags','e13'),
+    path: '/zh-cn/blog/tags/interview-qustions',
+    component: ComponentCreator('/zh-cn/blog/tags/interview-qustions','bc1'),
     exact: true
   },
   {
-    path: '/blog/tags/golang',
-    component: ComponentCreator('/blog/tags/golang','827'),
+    path: '/zh-cn/blog/tags/java-script',
+    component: ComponentCreator('/zh-cn/blog/tags/java-script','0cb'),
     exact: true
   },
   {
-    path: '/blog/tags/java',
-    component: ComponentCreator('/blog/tags/java','6b9'),
+    path: '/zh-cn/blog/understand-this-in-one-article',
+    component: ComponentCreator('/zh-cn/blog/understand-this-in-one-article','a09'),
     exact: true
   },
   {
-    path: '/blog/tags/kubernetes',
-    component: ComponentCreator('/blog/tags/kubernetes','6e5'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/rust',
-    component: ComponentCreator('/blog/tags/rust','32d'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/spark',
-    component: ComponentCreator('/blog/tags/spark','cf1'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs','3e9'),
+    path: '/zh-cn/docs',
+    component: ComponentCreator('/zh-cn/docs','413'),
     routes: [
       {
-        path: '/docs/',
-        component: ComponentCreator('/docs/','6b2'),
+        path: '/zh-cn/docs/',
+        component: ComponentCreator('/zh-cn/docs/','4c5'),
         exact: true,
         'sidebar': "someSidebar"
       },
       {
-        path: '/docs/doc2',
-        component: ComponentCreator('/docs/doc2','fc7'),
+        path: '/zh-cn/docs/doc2',
+        component: ComponentCreator('/zh-cn/docs/doc2','ed4'),
         exact: true,
         'sidebar': "someSidebar"
       },
       {
-        path: '/docs/doc3',
-        component: ComponentCreator('/docs/doc3','b20'),
+        path: '/zh-cn/docs/doc3',
+        component: ComponentCreator('/zh-cn/docs/doc3','b2f'),
         exact: true,
         'sidebar': "someSidebar"
       },
       {
-        path: '/docs/mdx',
-        component: ComponentCreator('/docs/mdx','106'),
+        path: '/zh-cn/docs/mdx',
+        component: ComponentCreator('/zh-cn/docs/mdx','424'),
         exact: true,
         'sidebar': "someSidebar"
       }

@@ -3,7 +3,7 @@ module.exports = {
   tagline: "Learning is a Lifelong Process",
   //disableTitleTagline: true,
   //titleDelimiter: "*",
-  url: "https://jeesie.work/",
+  url: "https://jeesie.work",
   baseUrl: "/",
   //onBrokenLinks: "throw",
   //onBrokenMarkdownLinks: "warn",
@@ -16,15 +16,9 @@ module.exports = {
       title: "Jessie",
       logo: {
         alt: "My Site Logo",
-        src: "img/haochen.logo.svg",
+        src: "img/jessie.logo.svg",
       },
       items: [
-        // {
-        //   to: "docs/",
-        //   activeBasePath: "docs",
-        //   label: "Docs",
-        //   position: "left",
-        // },
         { type: "localeDropdown", position: "right" },
         { to: "blog", label: "Blog", position: "right" },
 
@@ -39,7 +33,7 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "社交媒体",
+          title: "social media",
           items: [
             {
               label: "Linkedin",
@@ -52,7 +46,7 @@ module.exports = {
           ],
         },
         {
-          title: "更多",
+          title: "more",
           items: [
             {
               label: "Blog",

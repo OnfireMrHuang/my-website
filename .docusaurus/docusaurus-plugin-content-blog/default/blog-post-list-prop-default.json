@@ -2,8 +2,8 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "领域驱动模型设计",
-      "permalink": "/blog/领域驱动模型设计"
+      "title": "理解 JavaScript 中的 This, Bind, Call 和 Apply",
+      "permalink": "/zh-cn/blog/understand-this-in-one-article"
     }
   ]
 }

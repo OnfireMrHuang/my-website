@@ -1,118 +1,88 @@
 {
-  "/-deb": {
+  "/zh-cn/-5d9": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---5-e-9-4f3"
+    "config": "config---zh-cn-5-e-9-097"
   },
-  "/__docusaurus/debug-3d6": {
+  "/zh-cn/__docusaurus/debug-f4b": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/__docusaurus/debug/config-914": {
+  "/zh-cn/__docusaurus/debug/config-881": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/__docusaurus/debug/content-c28": {
+  "/zh-cn/__docusaurus/debug/content-95d": {
     "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "allContent": "allContent---zh-cn-docusaurus-debug-content-246-882"
   },
-  "/__docusaurus/debug/globalData-3cf": {
+  "/zh-cn/__docusaurus/debug/globalData-f8a": {
     "component": "component---theme-debug-global-dataede-0fa"
   },
-  "/__docusaurus/debug/metadata-31b": {
+  "/zh-cn/__docusaurus/debug/metadata-3f1": {
     "component": "component---theme-debug-site-metadata-68-e-3d4"
   },
-  "/__docusaurus/debug/registry-0da": {
+  "/zh-cn/__docusaurus/debug/registry-664": {
     "component": "component---theme-debug-registry-679-501"
   },
-  "/__docusaurus/debug/routes-244": {
+  "/zh-cn/__docusaurus/debug/routes-af2": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/blog-7e5": {
+  "/zh-cn/blog-db3": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---zh-cn-blog-814-94c",
     "items": [
       {
-        "content": "content---blogf-57-113"
+        "content": "content---zh-cn-blogcdb-f83"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "metadata---zh-cn-blogb-91-9a9"
   },
-  "/blog/领域驱动模型设计-1db": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-understand-this-in-one-article-506-19b"
-  },
-  "/blog/tags-e13": {
+  "/zh-cn/blog/tags-8c6": {
     "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
+    "sidebar": "sidebar---zh-cn-blog-814-94c",
+    "tags": "tags---zh-cn-blog-tags-2-d-1-97d"
   },
-  "/blog/tags/golang-827": {
+  "/zh-cn/blog/tags/interview-qustions-bc1": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---zh-cn-blog-814-94c",
     "items": [
       {
-        "content": "content---blogf-57-113"
+        "content": "content---zh-cn-blogcdb-f83"
       }
     ],
-    "metadata": "metadata---blog-tags-golang-00-b-a67"
+    "metadata": "metadata---zh-cn-blog-tags-interview-qustions-26-c-c57"
   },
-  "/blog/tags/java-6b9": {
+  "/zh-cn/blog/tags/java-script-0cb": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---zh-cn-blog-814-94c",
     "items": [
       {
-        "content": "content---blogf-57-113"
+        "content": "content---zh-cn-blogcdb-f83"
       }
     ],
-    "metadata": "metadata---blog-tags-javaa-4-a-9bc"
+    "metadata": "metadata---zh-cn-blog-tags-java-script-4-b-3-72d"
   },
-  "/blog/tags/kubernetes-6e5": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blogf-57-113"
-      }
-    ],
-    "metadata": "metadata---blog-tags-kubernetesb-0-f-750"
+  "/zh-cn/blog/understand-this-in-one-article-a09": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---zh-cn-blog-814-94c",
+    "content": "content---zh-cn-blog-understand-this-in-one-article-9-a-7-e60"
   },
-  "/blog/tags/rust-32d": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blogf-57-113"
-      }
-    ],
-    "metadata": "metadata---blog-tags-rust-2-d-9-2cb"
-  },
-  "/blog/tags/spark-cf1": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blogf-57-113"
-      }
-    ],
-    "metadata": "metadata---blog-tags-spark-720-9a4"
-  },
-  "/docs-3e9": {
+  "/zh-cn/docs-413": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "versionMetadata---zh-cn-docs-935-730"
   },
-  "/docs/-6b2": {
+  "/zh-cn/docs/-4c5": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-b-2-f-393"
+    "content": "content---zh-cn-docs-b-2-f-8a3"
   },
-  "/docs/doc2-fc7": {
+  "/zh-cn/docs/doc2-ed4": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-doc-2-df-3-eaa"
+    "content": "content---zh-cn-docs-doc-2-df-3-d43"
   },
-  "/docs/doc3-b20": {
+  "/zh-cn/docs/doc3-b2f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-doc-3616-40c"
+    "content": "content---zh-cn-docs-doc-3616-c06"
   },
-  "/docs/mdx-106": {
+  "/zh-cn/docs/mdx-424": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-mdxce-3-7d1"
+    "content": "content---zh-cn-docs-mdxce-3-468"
   }
 }
