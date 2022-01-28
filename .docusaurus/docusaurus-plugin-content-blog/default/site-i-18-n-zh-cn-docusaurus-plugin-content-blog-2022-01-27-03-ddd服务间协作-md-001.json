@@ -1,0 +1,40 @@
+{
+  "permalink": "/zh-cn/blog/DDD服务间协作",
+  "source": "@site/i18n/zh-cn/docusaurus-plugin-content-blog/2022-01-27-03-DDD服务间协作.md",
+  "title": "DDD服务间协作",
+  "description": "开篇",
+  "date": "2022-01-27T00:00:00.000Z",
+  "formattedDate": "2022年1月27日",
+  "tags": [
+    {
+      "label": "Golang",
+      "permalink": "/zh-cn/blog/tags/golang"
+    },
+    {
+      "label": "Rust",
+      "permalink": "/zh-cn/blog/tags/rust"
+    },
+    {
+      "label": "kubernetes",
+      "permalink": "/zh-cn/blog/tags/kubernetes"
+    },
+    {
+      "label": "spark",
+      "permalink": "/zh-cn/blog/tags/spark"
+    },
+    {
+      "label": "Java",
+      "permalink": "/zh-cn/blog/tags/java"
+    }
+  ],
+  "readingTime": 0.435,
+  "truncated": false,
+  "prevItem": {
+    "title": "架构设计原则和关键设计",
+    "permalink": "/zh-cn/blog/架构设计原则和关键设计"
+  },
+  "nextItem": {
+    "title": "DDD设计实例",
+    "permalink": "/zh-cn/blog/DDD设计实例"
+  }
+}

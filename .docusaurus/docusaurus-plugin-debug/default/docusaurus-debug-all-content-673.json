@@ -159,26 +159,253 @@
     "default": {
       "blogPosts": [
         {
-          "id": "understand-this-in-one-article",
+          "id": "DDD代码模型",
           "metadata": {
-            "permalink": "/zh-cn/blog/understand-this-in-one-article",
-            "source": "@site/i18n/zh-cn/docusaurus-plugin-content-blog/2021-06-15-Understand-This.md",
-            "title": "理解 JavaScript 中的 This, Bind, Call 和 Apply",
-            "description": "question",
-            "date": "2021-06-15T00:00:00.000Z",
-            "formattedDate": "2021年6月15日",
+            "permalink": "/zh-cn/blog/DDD代码模型",
+            "source": "@site/i18n/zh-cn/docusaurus-plugin-content-blog/2022-01-27-01-DDD代码模型.md",
+            "title": "DDD代码模型",
+            "description": "DDD 分层架构与微服务代码模型",
+            "date": "2022-01-27T00:00:00.000Z",
+            "formattedDate": "2022年1月27日",
             "tags": [
               {
-                "label": "JavaScript",
-                "permalink": "/zh-cn/blog/tags/java-script"
+                "label": "Golang",
+                "permalink": "/zh-cn/blog/tags/golang"
               },
               {
-                "label": "Interview Qustions",
-                "permalink": "/zh-cn/blog/tags/interview-qustions"
+                "label": "Rust",
+                "permalink": "/zh-cn/blog/tags/rust"
+              },
+              {
+                "label": "kubernetes",
+                "permalink": "/zh-cn/blog/tags/kubernetes"
+              },
+              {
+                "label": "spark",
+                "permalink": "/zh-cn/blog/tags/spark"
+              },
+              {
+                "label": "Java",
+                "permalink": "/zh-cn/blog/tags/java"
               }
             ],
-            "readingTime": 2.31,
-            "truncated": true
+            "readingTime": 0.43,
+            "truncated": true,
+            "nextItem": {
+              "title": "架构设计原则和关键设计",
+              "permalink": "/zh-cn/blog/架构设计原则和关键设计"
+            }
+          }
+        },
+        {
+          "id": "架构设计原则和关键设计",
+          "metadata": {
+            "permalink": "/zh-cn/blog/架构设计原则和关键设计",
+            "source": "@site/i18n/zh-cn/docusaurus-plugin-content-blog/2022-01-27-04-架构设计原则和关键设计.md",
+            "title": "架构设计原则和关键设计",
+            "description": "微服务演进策略",
+            "date": "2022-01-27T00:00:00.000Z",
+            "formattedDate": "2022年1月27日",
+            "tags": [
+              {
+                "label": "Golang",
+                "permalink": "/zh-cn/blog/tags/golang"
+              },
+              {
+                "label": "Rust",
+                "permalink": "/zh-cn/blog/tags/rust"
+              },
+              {
+                "label": "kubernetes",
+                "permalink": "/zh-cn/blog/tags/kubernetes"
+              },
+              {
+                "label": "spark",
+                "permalink": "/zh-cn/blog/tags/spark"
+              },
+              {
+                "label": "Java",
+                "permalink": "/zh-cn/blog/tags/java"
+              }
+            ],
+            "readingTime": 0.77,
+            "truncated": false,
+            "prevItem": {
+              "title": "DDD代码模型",
+              "permalink": "/zh-cn/blog/DDD代码模型"
+            },
+            "nextItem": {
+              "title": "DDD服务间协作",
+              "permalink": "/zh-cn/blog/DDD服务间协作"
+            }
+          }
+        },
+        {
+          "id": "DDD服务间协作",
+          "metadata": {
+            "permalink": "/zh-cn/blog/DDD服务间协作",
+            "source": "@site/i18n/zh-cn/docusaurus-plugin-content-blog/2022-01-27-03-DDD服务间协作.md",
+            "title": "DDD服务间协作",
+            "description": "开篇",
+            "date": "2022-01-27T00:00:00.000Z",
+            "formattedDate": "2022年1月27日",
+            "tags": [
+              {
+                "label": "Golang",
+                "permalink": "/zh-cn/blog/tags/golang"
+              },
+              {
+                "label": "Rust",
+                "permalink": "/zh-cn/blog/tags/rust"
+              },
+              {
+                "label": "kubernetes",
+                "permalink": "/zh-cn/blog/tags/kubernetes"
+              },
+              {
+                "label": "spark",
+                "permalink": "/zh-cn/blog/tags/spark"
+              },
+              {
+                "label": "Java",
+                "permalink": "/zh-cn/blog/tags/java"
+              }
+            ],
+            "readingTime": 0.435,
+            "truncated": false,
+            "prevItem": {
+              "title": "架构设计原则和关键设计",
+              "permalink": "/zh-cn/blog/架构设计原则和关键设计"
+            },
+            "nextItem": {
+              "title": "DDD设计实例",
+              "permalink": "/zh-cn/blog/DDD设计实例"
+            }
+          }
+        },
+        {
+          "id": "DDD设计实例",
+          "metadata": {
+            "permalink": "/zh-cn/blog/DDD设计实例",
+            "source": "@site/i18n/zh-cn/docusaurus-plugin-content-blog/2022-01-27-05-DDD设计实例.md",
+            "title": "DDD设计实例",
+            "description": "需求背景",
+            "date": "2022-01-27T00:00:00.000Z",
+            "formattedDate": "2022年1月27日",
+            "tags": [
+              {
+                "label": "Golang",
+                "permalink": "/zh-cn/blog/tags/golang"
+              },
+              {
+                "label": "Rust",
+                "permalink": "/zh-cn/blog/tags/rust"
+              },
+              {
+                "label": "kubernetes",
+                "permalink": "/zh-cn/blog/tags/kubernetes"
+              },
+              {
+                "label": "spark",
+                "permalink": "/zh-cn/blog/tags/spark"
+              },
+              {
+                "label": "Java",
+                "permalink": "/zh-cn/blog/tags/java"
+              }
+            ],
+            "readingTime": 3.57,
+            "truncated": true,
+            "prevItem": {
+              "title": "DDD服务间协作",
+              "permalink": "/zh-cn/blog/DDD服务间协作"
+            },
+            "nextItem": {
+              "title": "保证领域模型和代码模型的一致性",
+              "permalink": "/zh-cn/blog/保证领域模型和代码模型的一致性"
+            }
+          }
+        },
+        {
+          "id": "保证领域模型和代码模型的一致性",
+          "metadata": {
+            "permalink": "/zh-cn/blog/保证领域模型和代码模型的一致性",
+            "source": "@site/i18n/zh-cn/docusaurus-plugin-content-blog/2022-01-27-02-保证领域模型和代码模型的一致性.md",
+            "title": "保证领域模型和代码模型的一致性",
+            "description": "DDD 强调先构建领域模型然后设计微服务，以保证领域模型和微服务的一体性，因此我们不能脱离领域模型来谈微服务的设计和落地。但在构建领域模型时，我们往往是站在业务视角的，并且有些领域对象还带着业务语言。我们还需要将领域模型作为微服务设计的输入，对领域对象进行设计和转换，让领域对象与代码对象建立映射关系。",
+            "date": "2022-01-27T00:00:00.000Z",
+            "formattedDate": "2022年1月27日",
+            "tags": [
+              {
+                "label": "Golang",
+                "permalink": "/zh-cn/blog/tags/golang"
+              },
+              {
+                "label": "Rust",
+                "permalink": "/zh-cn/blog/tags/rust"
+              },
+              {
+                "label": "kubernetes",
+                "permalink": "/zh-cn/blog/tags/kubernetes"
+              },
+              {
+                "label": "spark",
+                "permalink": "/zh-cn/blog/tags/spark"
+              },
+              {
+                "label": "Java",
+                "permalink": "/zh-cn/blog/tags/java"
+              }
+            ],
+            "readingTime": 0.335,
+            "truncated": false,
+            "prevItem": {
+              "title": "DDD设计实例",
+              "permalink": "/zh-cn/blog/DDD设计实例"
+            },
+            "nextItem": {
+              "title": "如何构建领域模型",
+              "permalink": "/zh-cn/blog/如何构建领域模型"
+            }
+          }
+        },
+        {
+          "id": "如何构建领域模型",
+          "metadata": {
+            "permalink": "/zh-cn/blog/如何构建领域模型",
+            "source": "@site/i18n/zh-cn/docusaurus-plugin-content-blog/2022-01-26-01-如何构建领域模型.md",
+            "title": "如何构建领域模型",
+            "description": "构建领域模型的核心就是事件风暴,事件风暴是一项团队活动，领域专家与项目团队通过头脑风暴的形式，罗列出领域中所有的领域事件，整合之后形成最终的领域事件集合，然后对每一个事件，标注出导致该事件的命令，再为每一个事件标注出命令发起方的角色。命令可以是用户发起，也可以是第三方系统调用或者定时器触发等，最后对事件进行分类，整理出实体、聚合、聚合根以及限界上下文。",
+            "date": "2022-01-26T00:00:00.000Z",
+            "formattedDate": "2022年1月26日",
+            "tags": [
+              {
+                "label": "Golang",
+                "permalink": "/zh-cn/blog/tags/golang"
+              },
+              {
+                "label": "Rust",
+                "permalink": "/zh-cn/blog/tags/rust"
+              },
+              {
+                "label": "kubernetes",
+                "permalink": "/zh-cn/blog/tags/kubernetes"
+              },
+              {
+                "label": "spark",
+                "permalink": "/zh-cn/blog/tags/spark"
+              },
+              {
+                "label": "Java",
+                "permalink": "/zh-cn/blog/tags/java"
+              }
+            ],
+            "readingTime": 0.275,
+            "truncated": false,
+            "prevItem": {
+              "title": "保证领域模型和代码模型的一致性",
+              "permalink": "/zh-cn/blog/保证领域模型和代码模型的一致性"
+            }
           }
         }
       ],
@@ -189,31 +416,82 @@
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
-            "totalCount": 1,
+            "totalCount": 6,
             "previousPage": null,
             "nextPage": null,
             "blogDescription": "Blog",
             "blogTitle": "Blog"
           },
           "items": [
-            "understand-this-in-one-article"
+            "DDD代码模型",
+            "架构设计原则和关键设计",
+            "DDD服务间协作",
+            "DDD设计实例",
+            "保证领域模型和代码模型的一致性",
+            "如何构建领域模型"
           ]
         }
       ],
       "blogTags": {
-        "java-script": {
-          "name": "javascript",
+        "golang": {
+          "name": "golang",
           "items": [
-            "understand-this-in-one-article"
+            "DDD代码模型",
+            "架构设计原则和关键设计",
+            "DDD服务间协作",
+            "DDD设计实例",
+            "保证领域模型和代码模型的一致性",
+            "如何构建领域模型"
           ],
-          "permalink": "/zh-cn/blog/tags/java-script"
+          "permalink": "/zh-cn/blog/tags/golang"
         },
-        "interview-qustions": {
-          "name": "interview qustions",
+        "rust": {
+          "name": "rust",
           "items": [
-            "understand-this-in-one-article"
+            "DDD代码模型",
+            "架构设计原则和关键设计",
+            "DDD服务间协作",
+            "DDD设计实例",
+            "保证领域模型和代码模型的一致性",
+            "如何构建领域模型"
           ],
-          "permalink": "/zh-cn/blog/tags/interview-qustions"
+          "permalink": "/zh-cn/blog/tags/rust"
+        },
+        "kubernetes": {
+          "name": "kubernetes",
+          "items": [
+            "DDD代码模型",
+            "架构设计原则和关键设计",
+            "DDD服务间协作",
+            "DDD设计实例",
+            "保证领域模型和代码模型的一致性",
+            "如何构建领域模型"
+          ],
+          "permalink": "/zh-cn/blog/tags/kubernetes"
+        },
+        "spark": {
+          "name": "spark",
+          "items": [
+            "DDD代码模型",
+            "架构设计原则和关键设计",
+            "DDD服务间协作",
+            "DDD设计实例",
+            "保证领域模型和代码模型的一致性",
+            "如何构建领域模型"
+          ],
+          "permalink": "/zh-cn/blog/tags/spark"
+        },
+        "java": {
+          "name": "java",
+          "items": [
+            "DDD代码模型",
+            "架构设计原则和关键设计",
+            "DDD服务间协作",
+            "DDD设计实例",
+            "保证领域模型和代码模型的一致性",
+            "如何构建领域模型"
+          ],
+          "permalink": "/zh-cn/blog/tags/java"
         }
       },
       "blogTagsListPath": "/zh-cn/blog/tags"

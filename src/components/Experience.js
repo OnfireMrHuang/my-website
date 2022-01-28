@@ -4,45 +4,34 @@ import { faAngleDoubleRight } from "@fortawesome/free-solid-svg-icons";
 import Translate from "@docusaurus/Translate";
 const experience = [
   {
-    company: "University of Melbourne",
-    position: "Master of Information Technology",
-    date: "July 2018 - December 2020 ",
+    company: "深圳明源云",
+    position: "Golang后端开发工程师",
+    date: "2021年4月 - 至今",
     desc: {
-      1: "Gained knowledge about fundamentals of the fields of Information Technology and Computer Science.",
-      2: "In-depth understanding of modern cloud-driven network architecture with practice with Unimelb advanced cloud platform-Nectar.",
-      3: "Acquied a comprehensive understanding of the integration of Machine Learning models and modern Web Development by finishing the graduation project.",
+      1: "负责指标建模体系建设、多维模型、标签生产等相关的开发工作",
+      2: "推动团队微服务架构建设落地",
+      3: "学习研究spark、presto、flink在团队的应用并实践",
     },
   },
   {
-    company: "University of North Carolina",
-    position: "Exchange Graduate",
-    date: "August 2019 - December 2019 ",
+    company: "深圳比特时代",
+    position: "后端开发工程师",
+    date: "2019年3月 - 2021年3月",
     desc: {
-      1: "Learnt modern web development and got familar with several modern web framworks.",
-      2: "Refined web development skills with hands on projects",
-      3: "Excelled in user experience and user interfaces.",
+      1: "主要技术栈是golang、php",
+      2: "负责btc、eth等公链的底层技术研究与对接",
+      3: "负责钱包交易相关开发和进度把控",
     },
   },
   {
-    company: "Psych Press",
-    position: "Front-End Developer Intern",
-    date: "March 2020 - July 2020 ",
+    company: "深圳七七元素",
+    position: "网络开发工程师",
+    date: "2018年3月 - 2019年2月",
     desc: {
-      1: "Implemented reusable components which helped save development time and budget for our team.",
-      2: "Involved in the planning and web design of a new project, designed the structure of the website with React and Material UI.",
-      3: "Collaborated with product team members to implement new feature development.",
+      1: "网络抓包、分析模块设计、开发",
+      2: "主要技术栈: C、Python、DPDK",
     },
-  },
-  {
-    company: "Wicrecend",
-    position: "Azure App Service Engineer",
-    date: "Mid 2021 - till now ",
-    desc: {
-      1: "Learnt the structure of Microsoft Azure App Service/Function App in a depth.",
-      2: "Had put the knowledge regarding App Service/Function App in use helping MS clients empower their bussiness.",
-      3: "Improved the satisfaction of MS clients to Azure Products/Services",
-    },
-  },
+  }
 ];
 function Experience() {
   const [value, setValue] = useState(0);

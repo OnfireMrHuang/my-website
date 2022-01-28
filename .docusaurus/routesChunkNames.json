@@ -25,45 +25,190 @@
   "/zh-cn/__docusaurus/debug/routes-af2": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/zh-cn/blog-db3": {
+  "/zh-cn/blog-c12": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
     "sidebar": "sidebar---zh-cn-blog-814-94c",
     "items": [
       {
-        "content": "content---zh-cn-blogcdb-f83"
+        "content": "content---zh-cn-blog-252-f30"
+      },
+      {
+        "content": "content---zh-cn-blog-5-ee-2d4"
+      },
+      {
+        "content": "content---zh-cn-blog-2-c-4-c6b"
+      },
+      {
+        "content": "content---zh-cn-blog-174-be5"
+      },
+      {
+        "content": "content---zh-cn-blog-3-b-6-b55"
+      },
+      {
+        "content": "content---zh-cn-blogc-54-f97"
       }
     ],
     "metadata": "metadata---zh-cn-blogb-91-9a9"
+  },
+  "/zh-cn/blog/保证领域模型和代码模型的一致性-306": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---zh-cn-blog-814-94c",
+    "content": "content---zh-cn-blog-保证领域模型和代码模型的一致性-3-f-5-960"
+  },
+  "/zh-cn/blog/架构设计原则和关键设计-3ba": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---zh-cn-blog-814-94c",
+    "content": "content---zh-cn-blog-架构设计原则和关键设计-31-b-cb5"
+  },
+  "/zh-cn/blog/如何构建领域模型-fa7": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---zh-cn-blog-814-94c",
+    "content": "content---zh-cn-blog-如何构建领域模型dae-0d5"
+  },
+  "/zh-cn/blog/DDD代码模型-fdd": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---zh-cn-blog-814-94c",
+    "content": "content---zh-cn-blog-dd-d代码模型-389-081"
+  },
+  "/zh-cn/blog/DDD服务间协作-4ba": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---zh-cn-blog-814-94c",
+    "content": "content---zh-cn-blog-dd-d服务间协作-001-aee"
+  },
+  "/zh-cn/blog/DDD设计实例-f30": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---zh-cn-blog-814-94c",
+    "content": "content---zh-cn-blog-dd-d设计实例de-7-5de"
   },
   "/zh-cn/blog/tags-8c6": {
     "component": "component---theme-blog-tags-list-page-01-a-d0b",
     "sidebar": "sidebar---zh-cn-blog-814-94c",
     "tags": "tags---zh-cn-blog-tags-2-d-1-97d"
   },
-  "/zh-cn/blog/tags/interview-qustions-bc1": {
+  "/zh-cn/blog/tags/golang-230": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---zh-cn-blog-814-94c",
     "items": [
       {
-        "content": "content---zh-cn-blogcdb-f83"
+        "content": "content---zh-cn-blog-252-f30"
+      },
+      {
+        "content": "content---zh-cn-blog-5-ee-2d4"
+      },
+      {
+        "content": "content---zh-cn-blog-2-c-4-c6b"
+      },
+      {
+        "content": "content---zh-cn-blog-174-be5"
+      },
+      {
+        "content": "content---zh-cn-blog-3-b-6-b55"
+      },
+      {
+        "content": "content---zh-cn-blogc-54-f97"
       }
     ],
-    "metadata": "metadata---zh-cn-blog-tags-interview-qustions-26-c-c57"
+    "metadata": "metadata---zh-cn-blog-tags-golang-95-f-479"
   },
-  "/zh-cn/blog/tags/java-script-0cb": {
+  "/zh-cn/blog/tags/java-e58": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---zh-cn-blog-814-94c",
     "items": [
       {
-        "content": "content---zh-cn-blogcdb-f83"
+        "content": "content---zh-cn-blog-252-f30"
+      },
+      {
+        "content": "content---zh-cn-blog-5-ee-2d4"
+      },
+      {
+        "content": "content---zh-cn-blog-2-c-4-c6b"
+      },
+      {
+        "content": "content---zh-cn-blog-174-be5"
+      },
+      {
+        "content": "content---zh-cn-blog-3-b-6-b55"
+      },
+      {
+        "content": "content---zh-cn-blogc-54-f97"
       }
     ],
-    "metadata": "metadata---zh-cn-blog-tags-java-script-4-b-3-72d"
+    "metadata": "metadata---zh-cn-blog-tags-javad-09-0db"
   },
-  "/zh-cn/blog/understand-this-in-one-article-a09": {
-    "component": "component---theme-blog-post-pageccc-cab",
+  "/zh-cn/blog/tags/kubernetes-694": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---zh-cn-blog-814-94c",
-    "content": "content---zh-cn-blog-understand-this-in-one-article-9-a-7-e60"
+    "items": [
+      {
+        "content": "content---zh-cn-blog-252-f30"
+      },
+      {
+        "content": "content---zh-cn-blog-5-ee-2d4"
+      },
+      {
+        "content": "content---zh-cn-blog-2-c-4-c6b"
+      },
+      {
+        "content": "content---zh-cn-blog-174-be5"
+      },
+      {
+        "content": "content---zh-cn-blog-3-b-6-b55"
+      },
+      {
+        "content": "content---zh-cn-blogc-54-f97"
+      }
+    ],
+    "metadata": "metadata---zh-cn-blog-tags-kubernetese-7-a-f35"
+  },
+  "/zh-cn/blog/tags/rust-9cd": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---zh-cn-blog-814-94c",
+    "items": [
+      {
+        "content": "content---zh-cn-blog-252-f30"
+      },
+      {
+        "content": "content---zh-cn-blog-5-ee-2d4"
+      },
+      {
+        "content": "content---zh-cn-blog-2-c-4-c6b"
+      },
+      {
+        "content": "content---zh-cn-blog-174-be5"
+      },
+      {
+        "content": "content---zh-cn-blog-3-b-6-b55"
+      },
+      {
+        "content": "content---zh-cn-blogc-54-f97"
+      }
+    ],
+    "metadata": "metadata---zh-cn-blog-tags-rust-398-d7b"
+  },
+  "/zh-cn/blog/tags/spark-1d1": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---zh-cn-blog-814-94c",
+    "items": [
+      {
+        "content": "content---zh-cn-blog-252-f30"
+      },
+      {
+        "content": "content---zh-cn-blog-5-ee-2d4"
+      },
+      {
+        "content": "content---zh-cn-blog-2-c-4-c6b"
+      },
+      {
+        "content": "content---zh-cn-blog-174-be5"
+      },
+      {
+        "content": "content---zh-cn-blog-3-b-6-b55"
+      },
+      {
+        "content": "content---zh-cn-blogc-54-f97"
+      }
+    ],
+    "metadata": "metadata---zh-cn-blog-tags-spark-091-5c6"
   },
   "/zh-cn/docs-413": {
     "component": "component---theme-doc-page-1-be-9be",
