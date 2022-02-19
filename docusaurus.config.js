@@ -59,7 +59,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Jessie. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Jessie. Built with Docusaurus. ICP证: 黔ICP-2021003391`,
     },
   },
   presets: [
